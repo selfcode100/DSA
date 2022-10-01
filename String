@@ -1,0 +1,1 @@
+The stoi() function converts a string data to an integer type by passing the string as a parameter to return an integer value. The stoi() function contains an str argument. The str string is passed inside the stoi() function to convert string data into an integer value.
